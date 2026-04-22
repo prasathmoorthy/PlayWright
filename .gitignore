@@ -1,0 +1,19 @@
+# Java/Maven 
+target/ 
+**/target/ 
+*.class 
+# IDE files 
+.classpath 
+.project 
+.settings/ 
+.idea/ 
+*.iml 
+# Test reports 
+test-output/ 
+# Libraries and binaries 
+lib/ 
+*.jar 
+Trace.zip 
+# OS 
+Thumbs.db 
+.DS_Store
